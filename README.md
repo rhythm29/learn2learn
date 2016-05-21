@@ -275,11 +275,3 @@ function draw(){
 
 ![](http://i.imgur.com/BaHjW6d.jpg?1)
 
-
-
-
-
-
-
-
-
